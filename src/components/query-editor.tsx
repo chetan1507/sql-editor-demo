@@ -11,7 +11,7 @@ export const QueryEditor = ({ query, updateQuery, handleRunQuery }: QueryEditorP
         <textarea
           id="OrderNotes"
           className="w-full resize-none border-none p-2 align-top focus:ring-0 sm:text-sm"
-          rows="4"
+          rows={4}
           placeholder="Write your query here..."
           value={query}
           onChange={e => {

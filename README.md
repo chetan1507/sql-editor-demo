@@ -1,5 +1,8 @@
 # SQL Query Demo
 
+Vercel Link - [https://chetan-sql-demo.vercel.app/]
+Loom recording for the demo - [https://www.loom.com/share/40fde8e3b9fd4b73a5f36c050e5ae4ce]
+
 ## Technologies used
 
 - Next.js with Typescript and React
